@@ -8,7 +8,7 @@
                      Essential Utilities Written in Zig
 
         zig-utils aims to be a collection of small, easy to maintain,
-        written in zig essential utilities. The goal is have a 
+        written in zig essential utilities. The goal is have a
         collection of core utilities written in a programming language
         made for robust, optimal and reusable software.
 
@@ -17,8 +17,8 @@
          - echo, display a line of text
          - touch, change file timestamps
 
-                                _     _     _
-                           '._.' '._.' '._.' '._.'
+                            __       __       __
+                      -._.-´  `-._.-´  `-._.-´  `-._.-
 
 
         This is the first of (hopefully) many projects I will do in Zig
@@ -34,8 +34,8 @@
         and I really want to see it reach 1.0 in the near future, I
         hope you'll find it as interesting as I do.
 
-                                _     _     _
-                           '._.' '._.' '._.' '._.'
+                            __       __       __
+                      -._.-´  `-._.-´  `-._.-´  `-._.-
 
 
         Copyright (c) 2021 Zuyoutoki
