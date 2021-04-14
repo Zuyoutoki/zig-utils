@@ -1,0 +1,63 @@
+                          _                _   _ _
+                      ___(_) __ _    _   _| |_(_) |___
+                     |_  / |/ _` |__| | | | __| | / __|
+                      / /| | (_| |__| |_| | |_| | \__ \
+                     /___|_|\__, |   \__,_|\__|_|_|___/
+                            |___/
+
+                     Essential Utilities Written in Zig
+
+        zig-utils aims to be a collection of small, easy to maintain,
+        written in zig essential utilities. The goal is have a 
+        collection of core utilities written in a programming language
+        made for robust, optimal and reusable software.
+
+        The following utilities are implemented and should work as
+        expected:
+         - echo, display a line of text
+         - touch, change file timestamps
+
+                                _     _     _
+                           '._.' '._.' '._.' '._.'
+
+
+        This is the first of (hopefully) many projects I will do in Zig
+        and it also serves as a stepping stone for me to learn the
+        language. If you find a bug, please submit a pull request and I
+        will get to it eventually.
+
+        If you don't know about Zig, I highly recommend watching "The
+        Road to Zig 1.0", a talk given by Andrew Kelley at a conference
+        in April 2019 : https://youtu.be/Gv2I7qTux7g
+
+        That talk is the reason why I fell in love with the language
+        and I really want to see it reach 1.0 in the near future, I
+        hope you'll find it as interesting as I do.
+
+                                _     _     _
+                           '._.' '._.' '._.' '._.'
+
+
+        Copyright (c) 2021 Zuyoutoki
+
+        Permission is hereby granted, free of charge, to any person
+        obtaining a copy of this software and associated documentation
+        files (the "Software"), to deal in the Software without
+        restriction, including without limitation the rights to use,
+        copy, modify, merge, publish, distribute, sublicense, and/or
+        sell copies of the Software, and to permit persons to whom the
+        Software is furnished to do so, subject to the following
+        conditions:
+
+        The above copyright notice and this permission notice shall be
+        included in all copies or substantial portions of the Software.
+
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+        EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+        OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+        NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+        HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+        WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+        FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+        OTHER DEALINGS IN THE SOFTWARE.
+
