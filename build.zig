@@ -14,8 +14,18 @@ pub fn build(b: *std.build.Builder) void {
     exe_echo.setBuildMode(mode);
     exe_echo.install();
 
+    const exe_false = b.addExecutable("false", "src/false.zig");
+    exe_false.setTarget(target);
+    exe_false.setBuildMode(mode);
+    exe_false.install();
+
     const exe_touch = b.addExecutable("touch", "src/touch.zig");
     exe_touch.setTarget(target);
     exe_touch.setBuildMode(mode);
     exe_touch.install();
+
+    const exe_true = b.addExecutable("true", "src/true.zig");
+    exe_true.setTarget(target);
+    exe_true.setBuildMode(mode);
+    exe_true.install();
 }

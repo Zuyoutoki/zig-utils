@@ -15,7 +15,9 @@
         The following utilities are implemented and should work as
         expected:
          - echo, display a line of text
+         - false, do nothing unsuccessfully
          - touch, change file timestamps
+         - true. do nothing successfully
 
 
                         -._.-´‾`-._.-´‾`-._.-´‾`-._.-
