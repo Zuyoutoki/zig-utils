@@ -16,6 +16,7 @@
         expected:
          - echo, display a line of text
          - false, do nothing unsuccessfully
+         - hostname, show system hostname
          - touch, change file timestamps
          - true. do nothing successfully
 
