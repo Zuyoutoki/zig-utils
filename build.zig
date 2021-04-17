@@ -33,4 +33,9 @@ pub fn build(b: *std.build.Builder) void {
     exe_true.setTarget(target);
     exe_true.setBuildMode(mode);
     exe_true.install();
+
+    const exe_yes = b.addExecutable("yes", "src/yes.zig");
+    exe_yes.setTarget(target);
+    exe_yes.setBuildMode(mode);
+    exe_yes.install();
 }

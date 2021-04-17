@@ -19,6 +19,7 @@
          - hostname, show system hostname
          - touch, change file timestamps
          - true, do nothing successfully
+         - yes, output a string repeatedly until killed
 
 
                         -._.-´‾`-._.-´‾`-._.-´‾`-._.-
