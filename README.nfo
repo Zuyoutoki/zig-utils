@@ -18,7 +18,7 @@
          - false, do nothing unsuccessfully
          - hostname, show system hostname
          - touch, change file timestamps
-         - true. do nothing successfully
+         - true, do nothing successfully
 
 
                         -._.-´‾`-._.-´‾`-._.-´‾`-._.-
