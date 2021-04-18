@@ -34,7 +34,7 @@ pub fn main() !void {
             } else if (std.mem.eql(u8, arg, "-n")) {
                 trailing_newline = false;
             } else {
-                _ = try stderr.print("error: Unknown option: {s}", .{arg});
+                _ = try stderr.print("error: Unknown option: {s}\n", .{arg});
                 return;
             }
         } else break;

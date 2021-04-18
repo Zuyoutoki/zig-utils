@@ -30,7 +30,7 @@ pub fn main() !void {
                 _ = try stdout.print("{s}", .{usage});
                 return;
             } else {
-                _ = try stderr.print("error: Unknown option: {s}", .{arg});
+                _ = try stderr.print("error: Unknown option: {s}\n", .{arg});
                 return;
             }
         }
